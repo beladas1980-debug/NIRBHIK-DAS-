@@ -1,7 +1,7 @@
 Hi , Welcome to my profile. 
-My name is NIRBHIK DAS 
+My name is NIRBHIK DAS .
 I am a 3rd year student of Haldia Institute of Technology CSE Department .
-I have knowledge on C,C++,HTML,CSS 
+I have knowledge on C,C++,HTML,CSS. 
 I have an interest in Cricket so you can ask me about this . 
 My hobby is listening music .
 ## 🌐 Socials:
