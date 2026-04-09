@@ -1,4 +1,9 @@
-
+Hi , Welcome to my profile. 
+My name is NIRBHIK DAS 
+I am a 3rd year student of Haldia Institute of Technology CSE Department .
+I have knowledge on C,C++,HTML,CSS 
+I have an interest in Cricket so you can ask me about this . 
+My hobby is listening music .
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/NIRBHIK DAS ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghostfacenirbhik) [![LinkedIn]https://www.linkedin.com/in/nirbhik-das-a0b498341?utm_source=share_via&utm_content=profile&utm_medium=member_android(https://linkedin.com/in/NIRBHIK DAS ) 
 
